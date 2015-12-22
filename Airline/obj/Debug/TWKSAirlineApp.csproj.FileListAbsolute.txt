@@ -1,6 +1,0 @@
-c:\users\amanp\documents\visual studio 2012\Projects\TWKSAirlineApp\TWKSAirlineApp\bin\Debug\TWKSAirlineApp.exe.config
-c:\users\amanp\documents\visual studio 2012\Projects\TWKSAirlineApp\TWKSAirlineApp\bin\Debug\TWKSAirlineApp.exe
-c:\users\amanp\documents\visual studio 2012\Projects\TWKSAirlineApp\TWKSAirlineApp\bin\Debug\TWKSAirlineApp.pdb
-c:\users\amanp\documents\visual studio 2012\Projects\TWKSAirlineApp\TWKSAirlineApp\obj\Debug\TWKSAirlineApp.exe
-c:\users\amanp\documents\visual studio 2012\Projects\TWKSAirlineApp\TWKSAirlineApp\obj\Debug\TWKSAirlineApp.pdb
-C:\Users\amanp\documents\visual studio 2012\Projects\TWKSAirlineApp\TWKSAirlineApp\obj\Debug\TWKSAirlineApp.csprojResolveAssemblyReference.cache

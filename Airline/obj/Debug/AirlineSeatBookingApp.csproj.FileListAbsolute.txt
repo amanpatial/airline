@@ -1,5 +1,0 @@
-C:\Users\amanp\documents\visual studio 2012\Projects\TWKSAirlineApp\TWKSAirlineApp\bin\Debug\TWKSAirlineApp.exe.config
-C:\Users\amanp\documents\visual studio 2012\Projects\TWKSAirlineApp\TWKSAirlineApp\bin\Debug\TWKSAirlineApp.exe
-C:\Users\amanp\documents\visual studio 2012\Projects\TWKSAirlineApp\TWKSAirlineApp\bin\Debug\TWKSAirlineApp.pdb
-C:\Users\amanp\documents\visual studio 2012\Projects\TWKSAirlineApp\TWKSAirlineApp\obj\Debug\TWKSAirlineApp.exe
-C:\Users\amanp\documents\visual studio 2012\Projects\TWKSAirlineApp\TWKSAirlineApp\obj\Debug\TWKSAirlineApp.pdb
